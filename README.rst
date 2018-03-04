@@ -2,11 +2,11 @@
 Mopidy-VKontakte
 ****************
 
-.. image:: https://pypip.in/v/Mopidy-VKontakte/badge.png
+.. image:: https://img.shields.io/pypi/v/Mopidy-VKontakte.svg
     :target: https://pypi.python.org/pypi/Mopidy-VKontakte/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/Mopidy-VKontakte/badge.png
+.. image:: https://img.shields.io/pypi/dm/Mopidy-VKontakte.svg
     :target: https://pypi.python.org/pypi/Mopidy-VKontakte/
     :alt: Number of PyPI downloads
 
